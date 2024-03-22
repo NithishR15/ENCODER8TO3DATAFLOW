@@ -53,7 +53,9 @@ endmodule
 ```
 
 Developed by:NITHISH R
+
 RegisterNumber:212223040135
+
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
